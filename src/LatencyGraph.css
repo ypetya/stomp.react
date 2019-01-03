@@ -1,5 +1,6 @@
 .Graph {
   text-align: center;
+  max-width: 400px;
 }
 
 .Graph-header {
